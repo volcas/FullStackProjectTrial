@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS davnn.endpoints (dav_id text PRIMARY KEY, topic_id text);
